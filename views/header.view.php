@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>GoFit - Dashboard</title>
+<title>jomFit - Dashboard</title>
 <link href="../css/custom.css" rel="stylesheet"/>
 <link rel="stylesheet" type="text/css" href="../fonts/flaticon.css">
 <script src="../js/sweetalert.js"></script>
@@ -18,10 +18,10 @@
 <body>
 
 <!--
-App Name: GoFit
-Description: React Native App Template
-Author: Wicombit
-Author URI: https://codecanyon.net/user/wicombit/portfolio
+App Name: JomFit
+Description: Fitness Mobile Application
+Author: Vicknesh Balasubramaniam
+Author URI: https://vicknesh-balasubramaniam.firebaseapp.com
 Version: 1.00
 -->
 

@@ -1,9 +1,9 @@
 <?php
 
 /*--------------------*/
-// App Name: GoFit
-// Author: Wicombit
-// Author Profile: https://codecanyon.net/user/wicombit/portfolio
+// App Name: jomFit
+// Author: Vicknesh Balasubramaniam
+// Author Profile: http://vicknesh-balasubramaniam.firebaseapp.com
 /*--------------------*/
 
 function connect($database){

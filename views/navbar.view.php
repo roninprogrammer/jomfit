@@ -1,6 +1,6 @@
 <nav class="navbar-inverse navbar-embossed">
 <div class="container">
-<a class="navbar-brand" href="<?php echo SITE_URL; ?>">GoFit Dashboard</a>
+<a class="navbar-brand" href="<?php echo SITE_URL; ?>">JomFit Dashboard</a>
 <!--<form name="searching" action="<?php echo SITE_URL; ?>/controller/search.php" method="GET" class="navbar-form navbar-left formulario" role="search">
 <div class="form-group">
 <div class="input-group">
