@@ -4,15 +4,15 @@
 
 /* URL PROJECT */
 
-define ('SITE_URL', 'Yy5vLmQuZS5sLmkucy50Li4uYy5j');
+define ('SITE_URL', 'https://jomfit-backend-php.herokuapp.com/');
 
 /* DATABASE CONFIGURATION */
 
 $database = array(
-'host' => 'DATABASE_HOST_HERE',
-'db' => 'DATABASE_NAME_HERE',
-'user' => 'DATABASE_USER_HERE',
-'pass' => 'DATABASE_PASSWORD_HERE'
+'host' => '	u0zbt18wwjva9e0v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+'db' => 'n85b86rgugw59m0p',
+'user' => 'sicpjftag72a9649',
+'pass' => 'lmbvqfp8v29yuui9'
 );
 
 $email_config = array(
